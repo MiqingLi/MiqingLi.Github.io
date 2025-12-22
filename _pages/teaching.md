@@ -1,22 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-# Teaching
-
-### Algorithms for Data Science (MSc), 2020 – present  
+Algorithms for Data Science (MSc), 2020 – present  
 (module lead).
 
-### Artificial Intelligence II (BSc), 2020 – present.
+Artificial Intelligence II (BSc), 2020 – present.
 
-### Mathematical Foundation of Artificial Intelligence and Machine Learning (MSc), 2020/21.
+Mathematical Foundation of Artificial Intelligence and Machine Learning (MSc), 2020/21.
 
-### Artificial Intelligence (BSc, MSc), 2019/20.
+Artificial Intelligence (BSc, MSc), 2019/20.
 
 # Student Projects
 
