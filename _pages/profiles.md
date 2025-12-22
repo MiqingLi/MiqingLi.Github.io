@@ -1,14 +1,12 @@
 ---
 layout: profiles
 permalink: /people/
-title: Visitors and Students
-description: members of the lab or group
+title: Students and Visitors
+description: 
 nav: true
 nav_order: 7
 
 ---
-
-# Students and Visitors
 
 ## PhD Students
 
