@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: Students and Visitors
 description: PhD students, collaborative students, visiting researchers and students
