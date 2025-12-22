@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students and Visitors
-description:  
+description:  ""
 nav: true
 nav_order: 7
 
