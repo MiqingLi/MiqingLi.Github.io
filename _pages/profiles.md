@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students and Visitors
-description:  ""
+description: PhD students, collaborative students, visiting researchers and students
 nav: true
 nav_order: 7
 
