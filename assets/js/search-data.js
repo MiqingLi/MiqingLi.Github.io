@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-students-and-visitors",
           title: "Students and Visitors",
-          description: "",
+          description: "PhD students, collaborative students, visiting researchers and students",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
