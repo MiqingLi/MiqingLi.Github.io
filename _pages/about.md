@@ -21,6 +21,8 @@ announcements:
 
 ---
 
+# Miqing Li
+
 I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research sits at the intersection between AI and optimisation, where I am interested in developing computational intelligence techniques (e.g., evolutionary algorithms) to solve both fundamental and practical optimisation problems. My current research interests include:
 
 - Multi-objective combinatorial optimisation (EAs, local search, NCO).
