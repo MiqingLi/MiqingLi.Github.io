@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Miqing
-middle_name: 
+middle_name:
 last_name: Li
 contact_note: >
   m.li.8@bham.ac.uk / limitsing@gmail.com
@@ -153,8 +153,8 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-#  - jekyll-imagemagick
-#  - jekyll-jupyter-notebook
+  #  - jekyll-imagemagick
+  #  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2

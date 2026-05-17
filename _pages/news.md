@@ -27,7 +27,7 @@ nav_order: 4
 - March 2024 - Work with Prof Guofu Zhang on constrained test resource allocation was accepted by ACM Transactions on Software Engineering and Methodology.
 - March 2024 - I gave a talk on MOEAs for combinatorial optimisation at the University of Exeter.
 - January 2024 - Work with Dr Tao Chen on adapting a bi-objective model for software configuration tuning was accepted by FSE'24.
-- January 2024 - Work with Dr Liangli Zhen and A*STAR colleagues on multi-scale neural architecture search was accepted by IEEE Transactions on Evolutionary Computation.
+- January 2024 - Work with Dr Liangli Zhen and A\*STAR colleagues on multi-scale neural architecture search was accepted by IEEE Transactions on Evolutionary Computation.
 - September 2023 - Work with Dr Yi Xiang and colleagues on quality-diversity generation of test suites for software product lines was accepted by ACM Transactions on Software Engineering and Methodology.
 - August 2023 - Our survey with Dr Manuel Lopez-Ibanez on archiving methods in multi-objective optimisation was accepted by IEEE Transactions on Evolutionary Computation.
 - August 2023 - I gave a webinar on MOEAs for combinatorial optimisation for the IEEE CIS ESCO Taskforce.

@@ -19,7 +19,6 @@ announcements:
   enabled: true
   scrollable: true
   limit: 6
-
 ---
 
 # Miqing Li
