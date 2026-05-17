@@ -2,35 +2,79 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: MiqingLi.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
+    <p>School of Computer Science<br>University of Birmingham</p>
     <p>m.li.8@bham.ac.uk / limitsing@gmail.com</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 6
 
 ---
 
 # Miqing Li
 
-I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research sits at the intersection between AI and optimisation, where I am interested in developing computational intelligence techniques (e.g., evolutionary algorithms) to solve both fundamental and practical optimisation problems. My current research interests include:
+I am an Associate Professor in the School of Computer Science at the University of Birmingham, UK. My research sits at the intersection of AI and optimisation, with a focus on computational intelligence methods such as evolutionary algorithms and Bayesian optimisation for multi-objective problems.
 
-- Multi-objective combinatorial optimisation (EAs, local search, NCO).
+Current interests include:
 
-- Expensive and robust optimisation (EAs, Bayesian).
+- Multi-objective combinatorial optimisation, including evolutionary algorithms, local search, and neural combinatorial optimisation.
+- Expensive and robust optimisation, including evolutionary algorithms and Bayesian optimisation.
+- Fundamental issues in multi-objective optimisation, including fitness landscape analysis, visualisation, archiving, and performance assessment.
+- Many-objective optimisation, including algorithm design, visualisation, and assisted decision-making.
+- Practical applications in software engineering, mechanical engineering, chemical engineering, and related domains.
 
-- General multi-objective optimisation issues (e.g. fitness landscape analysis and visualisation, archiving, performance assessment).
+This website is my research portfolio where you can find resources of research projects I work on. This includes brief descriptions (ideas and results) of some of my projects on [basic research](/basic-research/) and [applied research](/applied-research/) and their resulting [papers](/publications/) (with code and data). You are very welcome to contact me if you are interested in pursuing a PhD on any of the relevant topics mentioned above.
 
-- Many-objective optimisation (algorithm design, visualisation, assisted decision-making).
+## Research Highlights
 
-- Practical applications (e.g. in software engineering, mechanical engineering, chemical engineering).
+<div class="row row-cols-1 row-cols-md-2 mt-3">
+  <div class="col mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title h5">Landscape visualisation for MOPs</h2>
+        <p class="card-text">A visualisation tool for inspecting the landscape of multi-objective optimisation problems with low-dimensional decision spaces.</p>
+        <a href="{{ '/basic-research/visualisation/' | relative_url }}">Visualisation</a>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title h5">Archiving in MOEAs</h2>
+        <p class="card-text">Theoretical and empirical work on when archives help, when they fail, and how they change the required population size in multi-objective evolutionary algorithms.</p>
+        <a href="{{ '/basic-research/multi-objective-archiving/' | relative_url }}">Archiving</a>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title h5">MOEAs for combinatorial problems</h2>
+        <p class="card-text">Studies showing where simple multi-objective search heuristics, local search, and established MOEAs succeed or struggle on combinatorial problems.</p>
+        <a href="{{ '/basic-research/solving-many-objective-problems/' | relative_url }}">Algorithm design</a>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h2 class="card-title h5">Search-based software engineering</h2>
+        <p class="card-text">Applied multi-objective optimisation for software configuration tuning, software product lines, SBSE evaluation, and related engineering tasks.</p>
+        <a href="{{ '/applied-research/' | relative_url }}">Applied research</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+This site is migrated from the [google site](https://sites.google.com/view/miqing-li/home) which is still running. If you are looking for the latest update, you may visit the google site at the moment.
